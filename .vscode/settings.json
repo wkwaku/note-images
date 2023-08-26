@@ -1,0 +1,10 @@
+{
+    "workbench.colorCustomizations": {
+        "[Snazzy Light]": {
+            "activityBar.background": "#ffffff"
+        },
+        "activityBar.background": "#442617",
+        "titleBar.activeBackground": "#603520",
+        "titleBar.activeForeground": "#FDFBFA"
+    }
+}
